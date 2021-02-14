@@ -1,4 +1,4 @@
-## vs-code
+## Docker
 
 ### Prerequisites:
 
